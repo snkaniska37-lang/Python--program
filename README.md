@@ -21,13 +21,9 @@ Technologies Used
 
 How to Run
 
-1. Clone the repository:
+1. Open the project folder.
 
-git clone https://github.com/Indhumathi-codes/Python-Programs.git
-
-2. Open the project folder.
-
-3. Run the Python file:
+2. Run the Python file:
 
 python Calculator.py
 

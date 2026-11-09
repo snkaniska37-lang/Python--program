@@ -44,9 +44,7 @@ Learning Objectives
 
 Author
 
-Indhumathi Ramalingam
-
-GitHub: https://github.com/Indhumathi-codes
+Kaniska S N
 
 ---
 
